@@ -1,3 +1,5 @@
-data = int(input())
-print("AAAAAAA")
-print("data")
+a = int(input())
+b = int(input())
+
+print(a // b)
+print(a / b)
